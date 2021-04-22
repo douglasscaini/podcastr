@@ -44,6 +44,7 @@ $ npm run dev
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
+- [Sass](https://sass-lang.com/)
 - [Next](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
