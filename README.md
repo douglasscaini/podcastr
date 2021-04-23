@@ -21,7 +21,7 @@
     <td colspan="1">Desktop</td>
   </tr>
   <tr>
-    <td><img src="./.github/#" width=1000px /></td></td>
+    <td><img src="./.github/gif.gif" width=1000px /></td></td>
   </tr>
 </table>
 
