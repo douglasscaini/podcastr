@@ -13,7 +13,7 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
-> [Podcastr]()! O melhor para você ouvir, sempre!
+> [Podcastr](https://douglas-podcastr.vercel.app/)! O melhor para você ouvir, sempre!
 
 <br />
 <table>
