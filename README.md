@@ -13,6 +13,8 @@
 
 ## :speech_balloon: Sobre <a name="about"></a>
 
+> Podcastr é uma aplicação para exibir alguns podcasts relevantes.
+>
 > [Podcastr](https://douglas-podcastr.vercel.app/)! O melhor para você ouvir, sempre!
 
 <br />
@@ -21,7 +23,7 @@
     <td colspan="1">Desktop</td>
   </tr>
   <tr>
-    <td><img src="./.github/gif.gif" width=1000px /></td></td>
+    <td><img src="./.github/desktop.png" width=1000px /></td></td>
   </tr>
 </table>
 

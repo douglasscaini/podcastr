@@ -7,6 +7,7 @@ import Image from "next/image";
 import Head from "next/head";
 
 import { usePlayer } from "../../context/PlayerContext";
+
 import { api } from "../../services/api";
 import { convertDurationToTimeString } from "../../utils/convertDurationToTimeString";
 

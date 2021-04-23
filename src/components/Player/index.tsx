@@ -1,9 +1,11 @@
 import Image from "next/image";
 import { useRef, useEffect, useState } from "react";
+
 import Slider from "rc-slider";
 import "rc-slider/assets/index.css";
 
 import { usePlayer } from "../../context/PlayerContext";
+
 import { convertDurationToTimeString } from "../../utils/convertDurationToTimeString";
 
 import styles from "./styles.module.scss";

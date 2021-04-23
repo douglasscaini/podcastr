@@ -6,6 +6,7 @@ import Head from "next/head";
 import ptBR from "date-fns/locale/pt-BR";
 
 import { usePlayer } from "../context/PlayerContext";
+
 import { api } from "../services/api";
 import { convertDurationToTimeString } from "../utils/convertDurationToTimeString";
 
